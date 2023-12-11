@@ -1,0 +1,96 @@
+body {
+  background-color: rgb(8, 8, 105);
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 10%;
+  margin-top: 5%;
+  width: 70%;
+  margin-right: 10%;
+}
+
+th {
+  color: rgb(5, 161, 252);
+}
+
+tr {
+  text-align: left;
+}
+
+td {
+  border: 0.1px solid black;
+}
+
+.hading {
+  margin-left: 40%;
+  color: antiquewhite;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 500%;
+}
+
+.create {
+  margin-left: 40%;
+  color: rgb(246, 244, 244);
+  font-size: 200%;
+}
+
+.one {
+  background-color: darkgray;
+}
+
+.google {
+  color: orange;
+  width: 10%;
+  padding: 1%;
+}
+
+.viewsone {
+  color: white;
+  width: 10%;
+}
+
+.clicks {
+  color: white;
+  width: 10%;
+}
+
+.average {
+  background-color: rgb(159, 159, 54);
+  border: 3px solid greenyellow;
+  width: 10%;
+}
+
+.twitter {
+  color: orange;
+  padding: 1%;
+}
+
+.three {
+  background-color: rgb(133, 10, 248);
+}
+
+.amazon {
+  color: orange;
+  padding: 1%;
+}
+
+.linkedin {
+  color: orange;
+  padding: 1%;
+}
+
+.five {
+  background-color: rgb(133, 10, 248);
+}
+
+.codepen {
+  color: orange;
+  padding: 1%;
+}
+
+.github {
+  color: orange;
+  padding: 1%;
+}
